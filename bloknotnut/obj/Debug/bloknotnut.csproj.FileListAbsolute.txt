@@ -1,0 +1,10 @@
+C:\Users\lisa\Desktop\NotebookApp\NotebookApp\bloknotnut\bloknotnut\bin\Debug\bloknotnut.exe.config
+C:\Users\lisa\Desktop\NotebookApp\NotebookApp\bloknotnut\bloknotnut\bin\Debug\bloknotnut.exe
+C:\Users\lisa\Desktop\NotebookApp\NotebookApp\bloknotnut\bloknotnut\bin\Debug\bloknotnut.pdb
+C:\Users\lisa\Desktop\NotebookApp\NotebookApp\bloknotnut\bloknotnut\obj\Debug\bloknotnut.csproj.AssemblyReference.cache
+C:\Users\lisa\Desktop\NotebookApp\NotebookApp\bloknotnut\bloknotnut\obj\Debug\bloknotnut.Form1.resources
+C:\Users\lisa\Desktop\NotebookApp\NotebookApp\bloknotnut\bloknotnut\obj\Debug\bloknotnut.Properties.Resources.resources
+C:\Users\lisa\Desktop\NotebookApp\NotebookApp\bloknotnut\bloknotnut\obj\Debug\bloknotnut.csproj.GenerateResource.cache
+C:\Users\lisa\Desktop\NotebookApp\NotebookApp\bloknotnut\bloknotnut\obj\Debug\bloknotnut.csproj.CoreCompileInputs.cache
+C:\Users\lisa\Desktop\NotebookApp\NotebookApp\bloknotnut\bloknotnut\obj\Debug\bloknotnut.exe
+C:\Users\lisa\Desktop\NotebookApp\NotebookApp\bloknotnut\bloknotnut\obj\Debug\bloknotnut.pdb
